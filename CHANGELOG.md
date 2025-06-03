@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/nd1982/github-unleashed-sample-app/compare/v0.0.1...v0.1.0) (2025-06-03)
+
+
+### Features
+
+* added a new feature ([d711842](https://github.com/nd1982/github-unleashed-sample-app/commit/d71184206debfd3e6df699588122b94c570cc8f5))
+
+
+### Bug Fixes
+
+* i fixed the header ([77dab6f](https://github.com/nd1982/github-unleashed-sample-app/commit/77dab6f89cf42ef392061a7cdbba2a6fcffb6963))
+
 ## 0.0.1 (2025-06-03)
 
 
