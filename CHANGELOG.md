@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/nd1982/github-unleashed-sample-app/compare/v0.0.1...v0.1.0) (2025-07-17)
+
+
+### Features
+
+* a new feature ([0f7ddf1](https://github.com/nd1982/github-unleashed-sample-app/commit/0f7ddf132fc7fb66ea2442e8042cb5cb54f75dcb))
+
+
+### Bug Fixes
+
+* fix the bug ([18dc969](https://github.com/nd1982/github-unleashed-sample-app/commit/18dc9696192fef193c5e5a784bad89f2a067c4e9))
+
 ## 0.0.1 (2025-07-17)
 
 
