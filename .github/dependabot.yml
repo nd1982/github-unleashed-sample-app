@@ -7,9 +7,6 @@ updates:
     commit-message:
       prefix: "fix(deps)"
       prefix-development: "fix(deps)"
-    assignees:
-      - "sample-app-developers"
-      - "sample-app-technical-leads"
 
   - package-ecosystem: "maven"
     directory: "/"
@@ -18,6 +15,3 @@ updates:
     commit-message:
       prefix: "fix(deps)"
       prefix-development: "fix(deps)"
-    assignees:
-      - "sample-app-developers"
-      - "sample-app-technical-leads"
