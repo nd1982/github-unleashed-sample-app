@@ -11,3 +11,4 @@
 /release-please-config.json @sample-app-support
 /LICENSE.md @sample-app-support
 /SECURITY.md @sample-app-support
+pom.xml @nd1982
