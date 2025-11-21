@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/nd1982/github-unleashed-sample-app/compare/v0.0.1...v0.1.0) (2025-11-21)
+
+
+### Features
+
+* Update greeting link to include Octocat name ([f1d5506](https://github.com/nd1982/github-unleashed-sample-app/commit/f1d550630024214a80557c9b1ab975e0a2aaf55f))
+
+
+### Bug Fixes
+
+* Update header text from 'Hands-off' to 'Hands-on' ([4c2936f](https://github.com/nd1982/github-unleashed-sample-app/commit/4c2936f6c17c979776ee20b5051095509c845484))
+
 ## 0.0.1 (2025-11-21)
 
 
